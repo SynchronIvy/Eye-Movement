@@ -13,6 +13,6 @@ If you would like to run this code, you will need to:
 *Add a button to switch the eyes from following the mouse movement to create and follow the movement of a ball bouncing around the screen.
 
 ### License
-[a relative link](LICENSE)
+[License](LICENSE)
 
-<img src="EYES.png"`>
+<img src="EYES.png">
